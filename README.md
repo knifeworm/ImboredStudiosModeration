@@ -1,0 +1,2 @@
+# ImboredStudiosModeration
+ ImBoredStudios Bot Moderation
